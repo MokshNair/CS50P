@@ -22,7 +22,6 @@ else:
     print(f"You entered: {x}")
 
 
-
 # We can loop this code to keep asking the user for input until they enter a valid number. We can use a while loop for this.
 
 while True:

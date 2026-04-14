@@ -4,7 +4,6 @@ Lecture 4: Libraries
 Libraries are collections of pre-written code that can be imported and used in your own programs. They provide a way to reuse code and save time by not having to write everything from scratch.
 
 
-
 # Random Library:
 import random
 
